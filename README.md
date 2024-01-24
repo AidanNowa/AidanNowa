@@ -6,7 +6,7 @@ I expect to graduate in May 2024.
 
 I am interested in digital logic design and enjoy working with Verilog.
 
-I create small video games using Unity, Godot, and GameMaker for fun.
+For fun, I create small video games using Unity, Godot, and GameMaker!
 
 <!--
 **AidanNowa/AidanNowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
