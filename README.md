@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am currently a Master's student at BU studying Computer Engineering.
+I am a systems design engineer!
 
-I expect to graduate in May 2024.
-
-I am interested in digital logic design and enjoy working with Verilog.
-
-For fun, I create small video games using Unity, Godot, and GameMaker!
+For fun, I create small video games using Godot and look forward to participating in game james!
 
 <!--
 **AidanNowa/AidanNowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
