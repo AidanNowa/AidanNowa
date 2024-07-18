@@ -2,7 +2,7 @@
 
 I am a systems design engineer!
 
-For fun, I create small video games using Godot and look forward to participating in game james!
+For fun, I create small video games using Godot and look forward to participating in game jams!
 
 <!--
 **AidanNowa/AidanNowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
