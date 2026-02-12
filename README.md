@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 😎 About Me:
 Data Engineer<br>Master's in ECE from Boston University<br>Currently learning more about Data Science<br>Fantasy Football Dynasty league champion: 2025  <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aidan-nowakowski) 
 
 # 💻 Tech Stack:
